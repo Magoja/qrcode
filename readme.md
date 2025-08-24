@@ -1,5 +1,8 @@
  # Free QRCode
 
+> Moving everything to https://github.com/Magoja/tools/ Aug/24/2025
+
+
  This is a hobby project that I created to prevent any mistakes in generating QR Codes, which hidden fees that lures people.
 
  I fully understand the value of being a middle man and supports making it short and tracking, but charging money for that for non-profit usages are ridiculous
